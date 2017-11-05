@@ -7,6 +7,7 @@ public class for1 {
 		int b=4;
 		int add=a+b;
 		System.out.println("Addition");
+		System.out.println("Addition");
 	}
 
 }
